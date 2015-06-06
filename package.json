@@ -1,0 +1,31 @@
+{
+  "name": "jack-stack-stylus",
+  "version": "1.0.0",
+  "description": "Stylus module for jack-stack",
+  "main": "lib/stylus",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dncrews/jack-stack-stylus.git"
+  },
+  "keywords": [
+    "express",
+    "stylus",
+    "jack-stack"
+  ],
+  "author": "Dan Crews <crewsd@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dncrews/jack-stack-stylus/issues"
+  },
+  "homepage": "https://github.com/dncrews/jack-stack-stylus#readme",
+  "peerDependencies": {
+    "jack-stack": "^0.11.0"
+  },
+  "dependencies": {
+    "lodash": "^3.9.3",
+    "stylus": "^0.51.1"
+  }
+}
