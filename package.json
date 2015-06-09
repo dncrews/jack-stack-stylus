@@ -1,6 +1,6 @@
 {
   "name": "jack-stack-stylus",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Stylus module for jack-stack",
   "main": "lib/stylus",
   "scripts": {
@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/dncrews/jack-stack-stylus#readme",
   "peerDependencies": {
-    "jack-stack": "^0.11.0"
+    "jack-stack": "^0.12.0"
   },
   "dependencies": {
     "lodash": "^3.9.3",
