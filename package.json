@@ -1,6 +1,6 @@
 {
   "name": "jack-stack-stylus",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Stylus module for jack-stack",
   "main": "lib/stylus",
   "scripts": {
